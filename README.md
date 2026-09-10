@@ -7,7 +7,7 @@ reanalysis data.
 
 ## Objective
 - Study the monthly and seasonal climatology of SST over the Bay of Bengal
-- Compare SST spatial patterns across two decades (1990s vs 2000s) to check 
+- Compare SST spatial patterns across two decades (1990-1999 vs 2000-2008) to check 
   for long-term change
 - Compare SST between the Northern and Southern Bay of Bengal for a single year
 
@@ -21,7 +21,7 @@ reanalysis data.
 - **Key libraries:** xarray, numpy, matplotlib, cartopy
 - **Method:** Extracted the BoB region from gridded SST data, computed monthly 
   and seasonal (DJF/MAM/JJAS/ON) climatologies, compared spatial SST patterns 
-  between the 1990s and 2000s, and compared Northern vs Southern BoB SST time 
+  between the 1990-1999 and 2000-2008, and compared Northern vs Southern BoB SST time 
   series for 2005
 
 ## Results
